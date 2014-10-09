@@ -1,0 +1,10 @@
+.nav li {
+  display: inline;
+  font-weight: bold;
+  font-size: 14px;
+  padding: 14px 10px;
+  text-transform: uppercase;
+
+.jumbotron h1 {
+  position: center;
+}
